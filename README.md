@@ -1,6 +1,6 @@
 ### Olá Mundo! 👋
 
-####Sobre Natália
+###Sobre Natália
 Sou uma desenvolvedora que se encantou pela programação e decidiu fazer um transição de carreira. Vou adorar compartilhar conhecimento com quem tiver interesse e estou aberta a propostas de job ;) .
 
 ### Detalhes
