@@ -1,6 +1,6 @@
 ### Olá Mundo! 👋
 
-Sou uma desenvolvedora que se encantou pela programação e decidiu fazer um transição de carreira. Vou adorar compartilhar conhecimento com quem tiver interesse e estou aberta a propostas de job ;) .
+Sou uma desenvolvedora que se encantou pela programação e decidiu fazer uma transição de carreira. Vou adorar compartilhar conhecimento com quem tiver interesse e estou aberta a propostas de job ;) .
 
 ### Detalhes
 [![Anurag's GitHub state](https://github-readme-stats.vercel.app/api?username=natfresou&show_icons=true&theme=dark)](https://github.com/natfresou/meus-projetos)
