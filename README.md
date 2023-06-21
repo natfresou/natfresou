@@ -6,7 +6,7 @@ Sou uma desenvolvedora que se encantou pela programação e decidiu fazer um tra
 [![Anurag's GitHub state](https://github-readme-stats.vercel.app/api?username=natfresou&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=natfresou&repo=meus-projetos&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natfresou&repo=meus-projetos&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natfresou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
