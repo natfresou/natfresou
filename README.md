@@ -7,7 +7,6 @@ Sou uma desenvolvedora que se encantou pela programação e decidiu fazer uma tr
 
 ### Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natfresou&repo=meus-projetos&theme=dark)](https://github.com/natfresou/meus-projetos)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natfresou&repo=meus-projetos&theme=dark)](https://github.com/natfresou/Ecommerce_HTML_CSS_JS)
 
 ### Linguagens utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natfresou&layout=compact)](https://github.com/natfresou/meus-projetos)
